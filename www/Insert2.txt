@@ -1,0 +1,7 @@
+<html>
+<body>
+<p><h1> <A HREF="sif.html"> Insert Student Information </A> </h1></p>
+<p><h1> <A HREF="tif.html"> Insert Teacher Information </A></h1></p>
+<p> <h1><A HREF="mcif.html"> Insert MC Information </A></h1> </p>
+</body>
+</html>
